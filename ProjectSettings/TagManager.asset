@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - Key
+  - E
+  - player
+  - Goal
   layers:
   - Default
   - TransparentFX
